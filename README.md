@@ -1,3 +1,3 @@
 # resistivity_methods
 
-view report: goo.gl/gw3vuU
+view report: https://goo.gl/gw3vuU
